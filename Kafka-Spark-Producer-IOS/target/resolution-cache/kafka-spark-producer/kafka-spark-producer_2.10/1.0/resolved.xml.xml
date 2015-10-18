@@ -4,7 +4,7 @@
 		module="kafka-spark-producer_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20151016163533"
+		publication="20151018072611"
 	>
 		<description>
 		Kafka-Spark-Producer

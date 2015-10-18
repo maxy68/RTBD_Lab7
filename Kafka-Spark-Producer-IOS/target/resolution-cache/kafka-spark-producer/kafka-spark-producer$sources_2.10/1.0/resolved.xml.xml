@@ -4,7 +4,7 @@
 		module="kafka-spark-producer$sources_2.10"
 		revision="1.0"
 		status="integration"
-		publication="20151016163618"
+		publication="20151018072652"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

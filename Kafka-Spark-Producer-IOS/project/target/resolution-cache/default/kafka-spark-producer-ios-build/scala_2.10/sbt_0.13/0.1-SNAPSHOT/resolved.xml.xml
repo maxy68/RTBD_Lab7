@@ -4,7 +4,7 @@
 		module="kafka-spark-producer-ios-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151016163409"
+		publication="20151018072456"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

@@ -1,4 +1,4 @@
-[info] Updating {file:/C:/Users/mahid_000/Desktop/Lab%207/Kafka-Spark-Producer-IOS/project/}kafka-spark-producer-ios-build...
+[info] Updating {file:/C:/Users/mahid_000/Desktop/Lab7/Kafka-Spark-Producer-IOS/project/}kafka-spark-producer-ios-build...
 [debug] :: resolving dependencies :: default#kafka-spark-producer-ios-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -1870,19 +1870,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1676ms :: artifacts dl 88ms
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT compile produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-compile.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT runtime produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-runtime.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT test produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-test.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT provided produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-provided.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT optional produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-optional.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT compile-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-compile-internal.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-runtime-internal.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT test-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-test-internal.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT plugin produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-plugin.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT sources produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-sources.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT docs produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-docs.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT pom produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-pom.xml
-[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT scala-tool produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-scala-tool.xml
-[debug] 	resolve done (1676ms resolve - 88ms download)
+[debug] :: resolution report :: resolve 3788ms :: artifacts dl 125ms
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT compile produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-compile.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT runtime produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-runtime.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT test produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-test.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT provided produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-provided.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT optional produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-optional.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT compile-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-compile-internal.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-runtime-internal.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT test-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-test-internal.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT plugin produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-plugin.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT sources produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-sources.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT docs produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-docs.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT pom produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-pom.xml
+[debug] 	report for default#kafka-spark-producer-ios-build;0.1-SNAPSHOT scala-tool produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\project\target\resolution-cache\reports\default-kafka-spark-producer-ios-build-scala-tool.xml
+[debug] 	resolve done (3788ms resolve - 125ms download)
 [info] Done updating.

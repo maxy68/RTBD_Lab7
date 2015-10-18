@@ -11,7 +11,7 @@
 [debug] == resolving dependencies for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 [compile]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.6 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30e9e96c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c6a4de8
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.6
 [debug] 	found org.scala-lang#scala-library;2.10.6 in sbt-chain
 [debug] 	[2.10.6] org.scala-lang#scala-library;2.10.6
@@ -20,7 +20,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-library;2.10.6 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-kafka_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming-kafka_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41c9d01
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cbfbbd9
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming-kafka_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-streaming-kafka_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-kafka_2.10;1.3.0 [compile->runtime]
@@ -28,7 +28,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming-kafka_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.kafka#kafka_2.10;0.8.1.1 [compile->default(compile)]
 [info] Resolving org.apache.kafka#kafka_2.10;0.8.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c139a50
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@fa350fd
 [debug] sbt-chain: module revision found in cache: org.apache.kafka#kafka_2.10;0.8.1.1
 [debug] 	found org.apache.kafka#kafka_2.10;0.8.1.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.kafka#kafka_2.10;0.8.1.1 [compile->runtime]
@@ -36,7 +36,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.kafka#kafka_2.10;0.8.1.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->default(compile)]
 [info] Resolving com.yammer.metrics#metrics-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@757fbd2c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4722436e
 [debug] sbt-chain: module revision found in cache: com.yammer.metrics#metrics-core;2.2.0
 [debug] 	found com.yammer.metrics#metrics-core;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->runtime]
@@ -44,7 +44,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.yammer.metrics#metrics-core;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.101tec#zkclient;0.3 [compile->default(compile)]
 [info] Resolving com.101tec#zkclient;0.3 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d6f647
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@25e9b742
 [debug] sbt-chain: module revision found in cache: com.101tec#zkclient;0.3
 [debug] 	found com.101tec#zkclient;0.3 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.101tec#zkclient;0.3 [compile->runtime]
@@ -52,7 +52,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.101tec#zkclient;0.3 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->default(compile)]
 [info] Resolving org.spark-project.spark#unused;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69412cb1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f83a87
 [debug] sbt-chain: module revision found in cache: org.spark-project.spark#unused;1.0.0
 [debug] 	found org.spark-project.spark#unused;1.0.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->runtime]
@@ -60,7 +60,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.spark#unused;1.0.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-streaming_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6620dae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52c420be
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-streaming_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-streaming_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->runtime]
@@ -68,7 +68,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-streaming_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-core_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2fa9bba2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bce611
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-core_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-core_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->runtime]
@@ -76,7 +76,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-core_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill_2.10;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c069bf1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@c2288dd
 [debug] sbt-chain: module revision found in cache: com.twitter#chill_2.10;0.5.0
 [debug] 	found com.twitter#chill_2.10;0.5.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->runtime]
@@ -84,7 +84,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill_2.10;0.5.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->default(compile)]
 [info] Resolving com.twitter#chill-java;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70cadaf9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26a30555
 [debug] sbt-chain: module revision found in cache: com.twitter#chill-java;0.5.0
 [debug] 	found com.twitter#chill-java;0.5.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->runtime]
@@ -92,7 +92,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.twitter#chill-java;0.5.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.kryo#kryo;2.21 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f90c91e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fe33123
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.kryo#kryo;2.21
 [debug] 	found com.esotericsoftware.kryo#kryo;2.21 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->runtime]
@@ -100,7 +100,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.kryo#kryo;2.21 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.reflectasm#reflectasm;1.07 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@36b06d27
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30cc332d
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.reflectasm#reflectasm;1.07
 [debug] 	found com.esotericsoftware.reflectasm#reflectasm;1.07 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->runtime]
@@ -108,7 +108,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.reflectasm#reflectasm;1.07 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->default(compile)]
 [info] Resolving com.esotericsoftware.minlog#minlog;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c61912e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d21ea49
 [debug] sbt-chain: module revision found in cache: com.esotericsoftware.minlog#minlog;1.2
 [debug] 	found com.esotericsoftware.minlog#minlog;1.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->runtime]
@@ -116,7 +116,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.esotericsoftware.minlog#minlog;1.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->default(compile)]
 [info] Resolving org.objenesis#objenesis;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c14eee7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72964a83
 [debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;1.2
 [debug] 	found org.objenesis#objenesis;1.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->runtime]
@@ -124,7 +124,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.objenesis#objenesis;1.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a68a3d1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27bd817d
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-client;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-client;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->runtime]
@@ -132,7 +132,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-client;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e2a7dc0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@33d1f866
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-common;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-common;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->runtime]
@@ -140,7 +140,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-common;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-annotations;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4fa930b4
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@65ff63d2
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-annotations;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-annotations;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->runtime]
@@ -148,7 +148,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-annotations;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->default(compile)]
 [info] Resolving commons-cli#commons-cli;1.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@363dc113
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2094178
 [debug] sbt-chain: module revision found in cache: commons-cli#commons-cli;1.2
 [debug] 	found commons-cli#commons-cli;1.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->runtime]
@@ -156,7 +156,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-cli#commons-cli;1.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math;2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@14e6b21
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@685148cd
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math;2.1
 [debug] 	found org.apache.commons#commons-math;2.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->runtime]
@@ -164,7 +164,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math;2.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->default(compile)]
 [info] Resolving commons-httpclient#commons-httpclient;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6846baa5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f4ac82d
 [debug] sbt-chain: module revision found in cache: commons-httpclient#commons-httpclient;3.1
 [debug] 	found commons-httpclient#commons-httpclient;3.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->runtime]
@@ -172,7 +172,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-httpclient#commons-httpclient;3.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.4 [compile->default(compile)]
 [info] Resolving commons-codec#commons-codec;1.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1d34761b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31763d72
 [debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.4
 [debug] 	found commons-codec#commons-codec;1.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.4 [compile->runtime]
@@ -180,7 +180,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-codec#commons-codec;1.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->default(compile)]
 [info] Resolving commons-logging#commons-logging;1.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@66a7b418
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@637022e7
 [debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.1
 [debug] 	found commons-logging#commons-logging;1.1.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->runtime]
@@ -188,7 +188,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-logging#commons-logging;1.1.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->default(compile)]
 [info] Resolving log4j#log4j;1.2.17 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c0f24d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@29e38f1b
 [debug] sbt-chain: module revision found in cache: log4j#log4j;1.2.17
 [debug] 	found log4j#log4j;1.2.17 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->runtime]
@@ -196,7 +196,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->log4j#log4j;1.2.17 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->default(compile)]
 [info] Resolving commons-lang#commons-lang;2.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5db87c0b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c0b1407
 [debug] sbt-chain: module revision found in cache: commons-lang#commons-lang;2.5
 [debug] 	found commons-lang#commons-lang;2.5 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->runtime]
@@ -204,7 +204,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-lang#commons-lang;2.5 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->default(compile)]
 [info] Resolving commons-configuration#commons-configuration;1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d4395b5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@367c9f31
 [debug] sbt-chain: module revision found in cache: commons-configuration#commons-configuration;1.6
 [debug] 	found commons-configuration#commons-configuration;1.6 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->runtime]
@@ -212,7 +212,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-configuration#commons-configuration;1.6 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->default(compile)]
 [info] Resolving commons-collections#commons-collections;3.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56818728
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3512a498
 [debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
 [debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->runtime]
@@ -220,7 +220,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-collections#commons-collections;3.2.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->default(compile)]
 [info] Resolving commons-digester#commons-digester;1.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@dd6afee
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72dc63dc
 [debug] sbt-chain: module revision found in cache: commons-digester#commons-digester;1.8
 [debug] 	found commons-digester#commons-digester;1.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->runtime]
@@ -228,7 +228,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-digester#commons-digester;1.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->default(compile)]
 [info] Resolving commons-beanutils#commons-beanutils;1.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35ff1e9d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35da8b61
 [debug] sbt-chain: module revision found in cache: commons-beanutils#commons-beanutils;1.7.0
 [debug] 	found commons-beanutils#commons-beanutils;1.7.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->runtime]
@@ -236,7 +236,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-beanutils#commons-beanutils;1.7.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-core-asl;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3c7e989d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1a207480
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-core-asl;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-core-asl;1.8.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.8.8 [compile->runtime]
@@ -244,7 +244,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-core-asl;1.8.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-mapper-asl;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@79a880a5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6d8a01e0
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-mapper-asl;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-mapper-asl;1.8.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.8.8 [compile->runtime]
@@ -252,7 +252,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-mapper-asl;1.8.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->default(compile)]
 [info] Resolving org.apache.avro#avro;1.7.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2718614e
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78199eb4
 [debug] sbt-chain: module revision found in cache: org.apache.avro#avro;1.7.4
 [debug] 	found org.apache.avro#avro;1.7.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->runtime]
@@ -260,7 +260,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.avro#avro;1.7.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-compress;1.4.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42b6fd84
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30bc2f3c
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-compress;1.4.1
 [debug] 	found org.apache.commons#commons-compress;1.4.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->runtime]
@@ -268,7 +268,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-compress;1.4.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->default(compile)]
 [info] Resolving org.tukaani#xz;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ee5d93
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@23247a31
 [debug] sbt-chain: module revision found in cache: org.tukaani#xz;1.0
 [debug] 	found org.tukaani#xz;1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->runtime]
@@ -276,7 +276,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tukaani#xz;1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->default(compile)]
 [info] Resolving com.google.protobuf#protobuf-java;2.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4340fc0d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@341e4258
 [debug] sbt-chain: module revision found in cache: com.google.protobuf#protobuf-java;2.5.0
 [debug] 	found com.google.protobuf#protobuf-java;2.5.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->runtime]
@@ -284,7 +284,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.protobuf#protobuf-java;2.5.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-auth;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3babd80b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@666df4d9
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-auth;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-auth;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->runtime]
@@ -292,7 +292,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-auth;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-hdfs;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3831d1fa
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f8148a4
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-hdfs;2.2.0
 [debug] 	found org.apache.hadoop#hadoop-hdfs;2.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->runtime]
@@ -300,7 +300,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-hdfs;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->default(compile)]
 [info] Resolving org.mortbay.jetty#jetty-util;6.1.26 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@482f232f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@533ebabd
 [debug] sbt-chain: module revision found in cache: org.mortbay.jetty#jetty-util;6.1.26
 [debug] 	found org.mortbay.jetty#jetty-util;6.1.26 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->runtime]
@@ -308,9 +308,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.mortbay.jetty#jetty-util;6.1.26 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2ff10676
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1dd5b013
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2ff10676
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1dd5b013
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-app\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
@@ -320,7 +320,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-app/2.2.0/hadoop-mapreduce-client-app-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (124ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0!hadoop-mapreduce-client-app.pom(pom.original) (160ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -330,9 +330,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-app;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57983826
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ab9a59a
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@57983826
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5ab9a59a
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
@@ -342,7 +342,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-common/2.2.0/hadoop-mapreduce-client-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (146ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0!hadoop-mapreduce-client-common.pom(pom.original) (124ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -352,9 +352,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-common;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63bd356a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60dd2e7e
 [info] Resolving org.apache.hadoop#hadoop-yarn-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@63bd356a
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@60dd2e7e
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
@@ -364,7 +364,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-common/2.2.0/hadoop-yarn-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (145ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-common;2.2.0!hadoop-yarn-common.pom(pom.original) (156ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -374,9 +374,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-common;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53e09480
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@609b49b1
 [info] Resolving org.apache.hadoop#hadoop-yarn-api;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@53e09480
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@609b49b1
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-api\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-api;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
@@ -386,7 +386,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-api/2.2.0/hadoop-yarn-api-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (113ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-api;2.2.0!hadoop-yarn-api.pom(pom.original) (145ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -396,7 +396,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-api;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject#guice;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6aa8e7fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c4c80ef
 [debug] sbt-chain: module revision found in cache: com.google.inject#guice;3.0
 [debug] 	found com.google.inject#guice;3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->runtime]
@@ -404,7 +404,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.inject#guice;3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->default(compile)]
 [info] Resolving javax.inject#javax.inject;1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6bce7728
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@46a9c70e
 [debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
 [debug] 	found javax.inject#javax.inject;1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->runtime]
@@ -412,7 +412,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.inject#javax.inject;1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->default(compile)]
 [info] Resolving aopalliance#aopalliance;1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57feb46b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@30755098
 [debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
 [debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->runtime]
@@ -420,7 +420,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->aopalliance#aopalliance;1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->default(compile)]
 [info] Resolving org.sonatype.sisu.inject#cglib;2.2.1-v20090111 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1fe67df3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50f5c706
 [debug] sbt-chain: module revision found in cache: org.sonatype.sisu.inject#cglib;2.2.1-v20090111
 [debug] 	found org.sonatype.sisu.inject#cglib;2.2.1-v20090111 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->runtime]
@@ -428,7 +428,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.sonatype.sisu.inject#cglib;2.2.1-v20090111 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@55baf31d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@62c24f7
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9
 [debug] 	found com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->runtime]
@@ -436,7 +436,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.jersey-test-framework#jersey-test-framework-grizzly2;1.9 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-server;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@318f95a1
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68ef9a5a
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-server;1.9
 [debug] 	found com.sun.jersey#jersey-server;1.9 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->runtime]
@@ -444,7 +444,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-server;1.9 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey#jersey-json;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@32a6fbbf
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1af80bcc
 [debug] sbt-chain: module revision found in cache: com.sun.jersey#jersey-json;1.9
 [debug] 	found com.sun.jersey#jersey-json;1.9 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->runtime]
@@ -452,7 +452,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey#jersey-json;1.9 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->default(compile)]
 [info] Resolving org.codehaus.jettison#jettison;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7a069da7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@63c70f75
 [debug] sbt-chain: module revision found in cache: org.codehaus.jettison#jettison;1.1
 [debug] 	found org.codehaus.jettison#jettison;1.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->runtime]
@@ -460,7 +460,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jettison#jettison;1.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->default(compile)]
 [info] Resolving com.sun.xml.bind#jaxb-impl;2.2.3-1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@494cbc46
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4ebf3374
 [debug] sbt-chain: module revision found in cache: com.sun.xml.bind#jaxb-impl;2.2.3-1
 [debug] 	found com.sun.xml.bind#jaxb-impl;2.2.3-1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->runtime]
@@ -468,7 +468,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.xml.bind#jaxb-impl;2.2.3-1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->default(compile)]
 [info] Resolving javax.xml.bind#jaxb-api;2.2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a96ce60
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@50ce43e7
 [debug] sbt-chain: module revision found in cache: javax.xml.bind#jaxb-api;2.2.2
 [debug] 	found javax.xml.bind#jaxb-api;2.2.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->runtime]
@@ -476,7 +476,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.xml.bind#jaxb-api;2.2.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->default(compile)]
 [info] Resolving javax.activation#activation;1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35a9f816
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@adacab8
 [debug] sbt-chain: module revision found in cache: javax.activation#activation;1.1
 [debug] 	found javax.activation#activation;1.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->runtime]
@@ -484,7 +484,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->javax.activation#activation;1.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-jaxrs;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@68cf77ea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@104e9580
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-jaxrs;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-jaxrs;1.8.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->runtime]
@@ -492,7 +492,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-jaxrs;1.8.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->default(compile)]
 [info] Resolving org.codehaus.jackson#jackson-xc;1.8.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7da71303
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72156d3d
 [debug] sbt-chain: module revision found in cache: org.codehaus.jackson#jackson-xc;1.8.8
 [debug] 	found org.codehaus.jackson#jackson-xc;1.8.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->runtime]
@@ -500,7 +500,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.codehaus.jackson#jackson-xc;1.8.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->default(compile)]
 [info] Resolving com.sun.jersey.contribs#jersey-guice;1.9 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@235c29ef
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74d9e0d3
 [debug] sbt-chain: module revision found in cache: com.sun.jersey.contribs#jersey-guice;1.9
 [debug] 	found com.sun.jersey.contribs#jersey-guice;1.9 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->runtime]
@@ -508,9 +508,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.sun.jersey.contribs#jersey-guice;1.9 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c77da0c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@51e7f1de
 [info] Resolving org.apache.hadoop#hadoop-yarn-client;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@1c77da0c
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@51e7f1de
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-client\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-client;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
@@ -520,7 +520,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-client/2.2.0/hadoop-yarn-client-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (127ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-client;2.2.0!hadoop-yarn-client.pom(pom.original) (133ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -530,9 +530,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-client;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@74d52bc8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@253853
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@74d52bc8
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@253853
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-core\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
@@ -542,7 +542,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (351ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0!hadoop-mapreduce-client-core.pom(pom.original) (138ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -552,9 +552,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-core;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@f2598f9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cd595ed
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-common;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@f2598f9
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2cd595ed
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-common\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-common;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
@@ -564,7 +564,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-common/2.2.0/hadoop-yarn-server-common-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (146ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-common;2.2.0!hadoop-yarn-server-common.pom(pom.original) (144ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
@@ -578,7 +578,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server/2.2.0/hadoop-yarn-server-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (160ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server;2.2.0!hadoop-yarn-server.pom(pom.original) (143ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn;2.2.0
@@ -615,9 +615,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-common;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a1e2740
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@39f863c0
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2a1e2740
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@39f863c0
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-shuffle\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
@@ -627,7 +627,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-shuffle/2.2.0/hadoop-mapreduce-client-shuffle-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (133ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0!hadoop-mapreduce-client-shuffle.pom(pom.original) (146ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -637,9 +637,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-shuffle;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@44eea22b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69f189e4
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@44eea22b
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@69f189e4
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-mapreduce-client-jobclient\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
@@ -649,7 +649,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-mapreduce-client-jobclient/2.2.0/hadoop-mapreduce-client-jobclient-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (134ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0!hadoop-mapreduce-client-jobclient.pom(pom.original) (141ms)
 [info] Resolving org.apache.hadoop#hadoop-mapreduce-client;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-mapreduce-client;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-mapreduce-client;2.2.0
@@ -659,7 +659,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-mapreduce-client-jobclient;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-common_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@729f2a09
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cc22471
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-common_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-network-common_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->runtime]
@@ -667,7 +667,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-common_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->default(compile)]
 [info] Resolving io.netty#netty-all;4.0.23.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27f8f09c
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b571a14
 [debug] sbt-chain: module revision found in cache: io.netty#netty-all;4.0.23.Final
 [debug] 	found io.netty#netty-all;4.0.23.Final in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->runtime]
@@ -675,7 +675,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty-all;4.0.23.Final [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-network-shuffle_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41a69ef8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1440c40e
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-network-shuffle_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-network-shuffle_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->runtime]
@@ -683,7 +683,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-network-shuffle_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->default(compile)]
 [info] Resolving net.java.dev.jets3t#jets3t;0.7.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4758b065
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@78e40729
 [debug] sbt-chain: module revision found in cache: net.java.dev.jets3t#jets3t;0.7.1
 [debug] 	found net.java.dev.jets3t#jets3t;0.7.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->runtime]
@@ -691,7 +691,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.java.dev.jets3t#jets3t;0.7.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-recipes;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3be1c5a7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3925e8b0
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-recipes;2.4.0
 [debug] 	found org.apache.curator#curator-recipes;2.4.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->runtime]
@@ -699,7 +699,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-recipes;2.4.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-framework;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5210880
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58bd9a42
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-framework;2.4.0
 [debug] 	found org.apache.curator#curator-framework;2.4.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->runtime]
@@ -707,7 +707,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-framework;2.4.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.curator#curator-client;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@58832d11
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4971d306
 [debug] sbt-chain: module revision found in cache: org.apache.curator#curator-client;2.4.0
 [debug] 	found org.apache.curator#curator-client;2.4.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->runtime]
@@ -715,7 +715,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.curator#curator-client;2.4.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->default(compile)]
 [info] Resolving org.apache.zookeeper#zookeeper;3.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b198546
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@27753299
 [debug] sbt-chain: module revision found in cache: org.apache.zookeeper#zookeeper;3.4.5
 [debug] 	found org.apache.zookeeper#zookeeper;3.4.5 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->runtime]
@@ -723,7 +723,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.zookeeper#zookeeper;3.4.5 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->default(compile)]
 [info] Resolving jline#jline;0.9.94 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2bc1732
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7bb21aa7
 [debug] sbt-chain: module revision found in cache: jline#jline;0.9.94
 [debug] 	found jline#jline;0.9.94 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->runtime]
@@ -731,7 +731,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->jline#jline;0.9.94 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->default(compile)]
 [info] Resolving com.google.guava#guava;14.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@136cae0a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@52dc4501
 [debug] sbt-chain: module revision found in cache: com.google.guava#guava;14.0.1
 [debug] 	found com.google.guava#guava;14.0.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->runtime]
@@ -739,7 +739,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.guava#guava;14.0.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->default(compile)]
 [info] Resolving org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c24ec32
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1cdc40ec
 [debug] sbt-chain: module revision found in cache: org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016
 [debug] 	found org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->runtime]
@@ -747,7 +747,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.eclipse.jetty.orbit#javax.servlet;3.0.0.v201112011016 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-lang3;3.3.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56ba4ca8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@37b6de25
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
 [debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->runtime]
@@ -755,7 +755,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-lang3;3.3.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->default(compile)]
 [info] Resolving org.apache.commons#commons-math3;3.1.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@336994b8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56d0702a
 [debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.1.1
 [debug] 	found org.apache.commons#commons-math3;3.1.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->runtime]
@@ -763,7 +763,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.commons#commons-math3;3.1.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-api;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67c1de59
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@69106da4
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-api;1.7.10
 [debug] 	found org.slf4j#slf4j-api;1.7.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->runtime]
@@ -771,7 +771,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-api;1.7.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jul-to-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3fcc76d9
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f6608d8
 [debug] sbt-chain: module revision found in cache: org.slf4j#jul-to-slf4j;1.7.10
 [debug] 	found org.slf4j#jul-to-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->runtime]
@@ -779,7 +779,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jul-to-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#jcl-over-slf4j;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@72eb388a
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@61cd44f5
 [debug] sbt-chain: module revision found in cache: org.slf4j#jcl-over-slf4j;1.7.10
 [debug] 	found org.slf4j#jcl-over-slf4j;1.7.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->runtime]
@@ -787,7 +787,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#jcl-over-slf4j;1.7.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->default(compile)]
 [info] Resolving org.slf4j#slf4j-log4j12;1.7.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@41bc8273
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4389a040
 [debug] sbt-chain: module revision found in cache: org.slf4j#slf4j-log4j12;1.7.10
 [debug] 	found org.slf4j#slf4j-log4j12;1.7.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->runtime]
@@ -795,7 +795,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.slf4j#slf4j-log4j12;1.7.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->default(compile)]
 [info] Resolving com.ning#compress-lzf;1.0.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@56bbc96b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@525ca578
 [debug] sbt-chain: module revision found in cache: com.ning#compress-lzf;1.0.0
 [debug] 	found com.ning#compress-lzf;1.0.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->runtime]
@@ -803,7 +803,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.ning#compress-lzf;1.0.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->default(compile)]
 [info] Resolving org.xerial.snappy#snappy-java;1.1.1.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1c69e3ea
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@67e80b07
 [debug] sbt-chain: module revision found in cache: org.xerial.snappy#snappy-java;1.1.1.6
 [debug] 	found org.xerial.snappy#snappy-java;1.1.1.6 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->runtime]
@@ -811,7 +811,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.xerial.snappy#snappy-java;1.1.1.6 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->default(compile)]
 [info] Resolving net.jpountz.lz4#lz4;1.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3caf72ae
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5d36e14a
 [debug] sbt-chain: module revision found in cache: net.jpountz.lz4#lz4;1.2.0
 [debug] 	found net.jpountz.lz4#lz4;1.2.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->runtime]
@@ -819,7 +819,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.jpountz.lz4#lz4;1.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->default(compile)]
 [info] Resolving org.roaringbitmap#RoaringBitmap;0.4.5 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@57fddaf6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@374ff279
 [debug] sbt-chain: module revision found in cache: org.roaringbitmap#RoaringBitmap;0.4.5
 [debug] 	found org.roaringbitmap#RoaringBitmap;0.4.5 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->runtime]
@@ -827,7 +827,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.roaringbitmap#RoaringBitmap;0.4.5 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->default(compile)]
 [info] Resolving commons-net#commons-net;2.2 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a98b3a8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@772bee3d
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;2.2
 [debug] 	found commons-net#commons-net;2.2 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->runtime]
@@ -835,7 +835,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-net#commons-net;2.2 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-remote_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@17be5cb2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@435d7216
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-remote_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-remote_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->runtime]
@@ -843,7 +843,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-remote_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-actor_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3301d094
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@129d4667
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-actor_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-actor_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->runtime]
@@ -851,7 +851,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-actor_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->default(compile)]
 [info] Resolving com.typesafe#config;1.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6254a2ac
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3f69268
 [debug] sbt-chain: module revision found in cache: com.typesafe#config;1.2.1
 [debug] 	found com.typesafe#config;1.2.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->runtime]
@@ -859,7 +859,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.typesafe#config;1.2.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->default(compile)]
 [info] Resolving io.netty#netty;3.8.0.Final ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@42a09bc8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5ed2ab2f
 [debug] sbt-chain: module revision found in cache: io.netty#netty;3.8.0.Final
 [debug] 	found io.netty#netty;3.8.0.Final in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->runtime]
@@ -867,7 +867,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.netty#netty;3.8.0.Final [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->default(compile)]
 [info] Resolving org.spark-project.protobuf#protobuf-java;2.5.0-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5425ff32
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@201894f0
 [debug] sbt-chain: module revision found in cache: org.spark-project.protobuf#protobuf-java;2.5.0-spark
 [debug] 	found org.spark-project.protobuf#protobuf-java;2.5.0-spark in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->runtime]
@@ -875,7 +875,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.protobuf#protobuf-java;2.5.0-spark [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->default(compile)]
 [info] Resolving org.uncommons.maths#uncommons-maths;1.2.2a ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2a59e1f3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59a57226
 [debug] sbt-chain: module revision found in cache: org.uncommons.maths#uncommons-maths;1.2.2a
 [debug] 	found org.uncommons.maths#uncommons-maths;1.2.2a in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->runtime]
@@ -883,7 +883,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.uncommons.maths#uncommons-maths;1.2.2a [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->default(compile)]
 [info] Resolving org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@35dce038
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7006ae1c
 [debug] sbt-chain: module revision found in cache: org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark
 [debug] 	found org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->runtime]
@@ -891,7 +891,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project.akka#akka-slf4j_2.10;2.3.4-spark [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-jackson_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@429c2a9b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@77c17031
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-jackson_2.10;3.2.10
 [debug] 	found org.json4s#json4s-jackson_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->runtime]
@@ -899,7 +899,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-jackson_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-core_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3bd52021
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4a96ea35
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-core_2.10;3.2.10
 [debug] 	found org.json4s#json4s-core_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->runtime]
@@ -907,7 +907,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-core_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->default(compile)]
 [info] Resolving org.json4s#json4s-ast_2.10;3.2.10 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@b194dba
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3e402fc2
 [debug] sbt-chain: module revision found in cache: org.json4s#json4s-ast_2.10;3.2.10
 [debug] 	found org.json4s#json4s-ast_2.10;3.2.10 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->runtime]
@@ -915,7 +915,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.json4s#json4s-ast_2.10;3.2.10 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->default(compile)]
 [info] Resolving com.thoughtworks.paranamer#paranamer;2.6 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@634a973b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@21d0f7a6
 [debug] sbt-chain: module revision found in cache: com.thoughtworks.paranamer#paranamer;2.6
 [debug] 	found com.thoughtworks.paranamer#paranamer;2.6 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->runtime]
@@ -923,7 +923,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.thoughtworks.paranamer#paranamer;2.6 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scalap;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3af7aaa0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@257ab14a
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scalap;2.10.0
 [debug] 	found org.scala-lang#scalap;2.10.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->runtime]
@@ -931,7 +931,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scalap;2.10.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.0 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-compiler;2.10.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3b01e243
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d432334
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.10.0
 [debug] 	found org.scala-lang#scala-compiler;2.10.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.0 [compile->runtime]
@@ -939,7 +939,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-compiler;2.10.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->default(compile)]
 [info] Resolving org.apache.mesos#mesos;0.21.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@19ad42a3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6317f84d
 [debug] sbt-chain: module revision found in cache: org.apache.mesos#mesos;0.21.0
 [debug] 	found org.apache.mesos#mesos;0.21.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->runtime]
@@ -947,7 +947,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.mesos#mesos;0.21.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->default(compile)]
 [info] Resolving com.clearspring.analytics#stream;2.7.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@208c608f
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3cd31fa3
 [debug] sbt-chain: module revision found in cache: com.clearspring.analytics#stream;2.7.0
 [debug] 	found com.clearspring.analytics#stream;2.7.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->runtime]
@@ -955,7 +955,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.clearspring.analytics#stream;2.7.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-core;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c6d8fe
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6fb1abac
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-core;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-core;3.1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->runtime]
@@ -963,7 +963,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-core;3.1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-jvm;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@570f53d7
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5fcbc0bf
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-jvm;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-jvm;3.1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->runtime]
@@ -971,7 +971,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-jvm;3.1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-json;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6c269b6
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@6a46ae35
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-json;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-json;3.1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->runtime]
@@ -979,7 +979,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-json;3.1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->default(compile)]
 [info] Resolving io.dropwizard.metrics#metrics-graphite;3.1.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3231f3c8
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4411fa2e
 [debug] sbt-chain: module revision found in cache: io.dropwizard.metrics#metrics-graphite;3.1.0
 [debug] 	found io.dropwizard.metrics#metrics-graphite;3.1.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->runtime]
@@ -987,7 +987,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->io.dropwizard.metrics#metrics-graphite;3.1.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-databind;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@efed923
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@551c09ae
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-databind;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-databind;2.4.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->runtime]
@@ -995,7 +995,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-databind;2.4.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-core;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5e3a51dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4c5a0a0
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-core;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-core;2.4.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->runtime]
@@ -1003,7 +1003,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-core;2.4.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@448136b2
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@239276d4
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4
 [debug] 	found com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->runtime]
@@ -1011,7 +1011,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.module#jackson-module-scala_2.10;2.4.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->default(compile)]
 [info] Resolving org.scala-lang#scala-reflect;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7522c0
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4b421d03
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.10.4
 [debug] 	found org.scala-lang#scala-reflect;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-reflect;2.10.4
@@ -1020,7 +1020,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.scala-lang#scala-reflect;2.10.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->default(compile)]
 [info] Resolving com.fasterxml.jackson.core#jackson-annotations;2.4.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5041008d
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@117ccaab
 [debug] sbt-chain: module revision found in cache: com.fasterxml.jackson.core#jackson-annotations;2.4.4
 [debug] 	found com.fasterxml.jackson.core#jackson-annotations;2.4.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->runtime]
@@ -1028,7 +1028,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.fasterxml.jackson.core#jackson-annotations;2.4.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->default(compile)]
 [info] Resolving org.apache.ivy#ivy;2.4.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2f161599
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@15d0a877
 [debug] sbt-chain: module revision found in cache: org.apache.ivy#ivy;2.4.0
 [debug] 	found org.apache.ivy#ivy;2.4.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->runtime]
@@ -1036,7 +1036,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.ivy#ivy;2.4.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->default(compile)]
 [info] Resolving oro#oro;2.0.8 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@26d329dd
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7ef50d13
 [debug] sbt-chain: module revision found in cache: oro#oro;2.0.8
 [debug] 	found oro#oro;2.0.8 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->runtime]
@@ -1044,7 +1044,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->oro#oro;2.0.8 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon-client;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2b9714e3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1694778b
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon-client;0.5.0
 [debug] 	found org.tachyonproject#tachyon-client;0.5.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->runtime]
@@ -1052,7 +1052,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon-client;0.5.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->default(compile)]
 [info] Resolving org.tachyonproject#tachyon;0.5.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@600dd599
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@31c6a3bb
 [debug] sbt-chain: module revision found in cache: org.tachyonproject#tachyon;0.5.0
 [debug] 	found org.tachyonproject#tachyon;0.5.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->runtime]
@@ -1060,7 +1060,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.tachyonproject#tachyon;0.5.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->default(compile)]
 [info] Resolving commons-io#commons-io;2.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4e58e9d3
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7f7317a0
 [debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
 [debug] 	found commons-io#commons-io;2.4 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->runtime]
@@ -1068,7 +1068,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-io#commons-io;2.4 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->default(compile)]
 [info] Resolving org.spark-project#pyrolite;2.0.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@53376801
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@1444a141
 [debug] sbt-chain: module revision found in cache: org.spark-project#pyrolite;2.0.1
 [debug] 	found org.spark-project#pyrolite;2.0.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->runtime]
@@ -1076,7 +1076,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.spark-project#pyrolite;2.0.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->default(compile)]
 [info] Resolving net.sf.py4j#py4j;0.8.2.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@70013e2b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59cb7c29
 [debug] sbt-chain: module revision found in cache: net.sf.py4j#py4j;0.8.2.1
 [debug] 	found net.sf.py4j#py4j;0.8.2.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->runtime]
@@ -1084,9 +1084,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->net.sf.py4j#py4j;0.8.2.1 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2cb54c30
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2c89e302
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2cb54c30
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@2c89e302
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-nodemanager\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
@@ -1096,7 +1096,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-nodemanager/2.2.0/hadoop-yarn-server-nodemanager-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (155ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0!hadoop-yarn-server-nodemanager.pom(pom.original) (165ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server;2.2.0
@@ -1106,7 +1106,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-nodemanager;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-yarn_2.10;1.3.0 [compile->default(compile)]
 [info] Resolving org.apache.spark#spark-yarn_2.10;1.3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7cc38277
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2af06192
 [debug] sbt-chain: module revision found in cache: org.apache.spark#spark-yarn_2.10;1.3.0
 [debug] 	found org.apache.spark#spark-yarn_2.10;1.3.0 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-yarn_2.10;1.3.0 [compile->runtime]
@@ -1114,9 +1114,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.spark#spark-yarn_2.10;1.3.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0 [compile->default(compile)]
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@64873d88
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@d62fb14
 [info] Resolving org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@64873d88
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@d62fb14
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\org.apache.hadoop\hadoop-yarn-server-web-proxy\2.2.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0
 [debug] 		tried https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.2.0/hadoop-yarn-server-web-proxy-2.2.0.pom
@@ -1126,7 +1126,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.2.0/hadoop-yarn-server-web-proxy-2.2.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.2.0/hadoop-yarn-server-web-proxy-2.2.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/apache/hadoop/hadoop-yarn-server-web-proxy/2.2.0/hadoop-yarn-server-web-proxy-2.2.0.pom
-[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0!hadoop-yarn-server-web-proxy.pom(pom.original) (139ms)
+[debug] 	[SUCCESSFUL ] org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0!hadoop-yarn-server-web-proxy.pom(pom.original) (184ms)
 [info] Resolving org.apache.hadoop#hadoop-yarn-server;2.2.0 ...
 [debug] sbt-chain: Checking cache for: dependency: org.apache.hadoop#hadoop-yarn-server;2.2.0 {}
 [debug] sbt-chain: module revision found in cache: org.apache.hadoop#hadoop-yarn-server;2.2.0
@@ -1136,9 +1136,9 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->org.apache.hadoop#hadoop-yarn-server-web-proxy;2.2.0 [compile->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.inject.extensions#guice-servlet;3.0 [compile->default(compile)]
 [info] Resolving com.google.inject.extensions#guice-servlet;3.0 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@7c433490
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@40ce8436
 [info] Resolving com.google.inject.extensions#guice-servlet;3.0 ...
-[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@7c433490
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@40ce8436
 [debug] 		tried C:\Users\mahid_000\.ivy2\local\com.google.inject.extensions\guice-servlet\3.0\ivys\ivy.xml
 [debug] 	local: no ivy file found for com.google.inject.extensions#guice-servlet;3.0
 [debug] 		tried https://repo1.maven.org/maven2/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.pom
@@ -1148,7 +1148,7 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/com/google/inject/extensions/guice-servlet/3.0/guice-servlet-3.0.pom
-[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-servlet;3.0!guice-servlet.pom(pom.original) (163ms)
+[debug] 	[SUCCESSFUL ] com.google.inject.extensions#guice-servlet;3.0!guice-servlet.pom(pom.original) (134ms)
 [info] Resolving com.google.inject.extensions#extensions-parent;3.0 ...
 [debug] sbt-chain: Checking cache for: dependency: com.google.inject.extensions#extensions-parent;3.0 {}
 [debug] sbt-chain: module revision found in cache: com.google.inject.extensions#extensions-parent;3.0
@@ -2090,7 +2090,7 @@
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->com.google.inject.extensions#guice-servlet;3.0 [runtime->master]
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->default(compile)]
 [info] Resolving commons-net#commons-net;3.1 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2419c6b5
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@689a5136
 [debug] sbt-chain: module revision found in cache: commons-net#commons-net;3.1
 [debug] 	found commons-net#commons-net;3.1 in sbt-chain
 [debug] == resolving dependencies kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0->commons-net#commons-net;3.1 [runtime->runtime]
@@ -9456,18 +9456,18 @@
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar(src)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(doc)
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar(src)
-[debug] :: resolution report :: resolve 24528ms :: artifacts dl 456ms
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 compile produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-compile.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 runtime produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-runtime.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 test produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-test.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 provided produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-provided.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 optional produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-optional.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 compile-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-compile-internal.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 runtime-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-runtime-internal.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 test-internal produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-test-internal.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 plugin produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-plugin.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 sources produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-sources.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 docs produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-docs.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 pom produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-pom.xml
-[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 scala-tool produced in C:\Users\mahid_000\Desktop\Lab 7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-scala-tool.xml
-[debug] 	resolve done (24528ms resolve - 456ms download)
+[debug] :: resolution report :: resolve 23489ms :: artifacts dl 1334ms
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 compile produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-compile.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 runtime produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-runtime.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 test produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-test.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 provided produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-provided.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 optional produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-optional.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 compile-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-compile-internal.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 runtime-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-runtime-internal.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 test-internal produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-test-internal.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 plugin produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-plugin.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 sources produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-sources.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 docs produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-docs.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 pom produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-pom.xml
+[debug] 	report for kafka-spark-producer#kafka-spark-producer$sources_javadoc_2.10;1.0 scala-tool produced in C:\Users\mahid_000\Desktop\Lab7\Kafka-Spark-Producer-IOS\target\resolution-cache\reports\kafka-spark-producer-kafka-spark-producer$sources_javadoc_2.10-scala-tool.xml
+[debug] 	resolve done (23489ms resolve - 1334ms download)

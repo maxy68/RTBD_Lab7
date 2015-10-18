@@ -20,6 +20,7 @@ object KafkaWordCountProducer {
     val props = new Properties()
     props.put("metadata.broker.list", brokers)
     props.put("serializer.class", "kafka.serializer.StringEncoder")
+    props.put("producer.type","async")
 
     val config = new ProducerConfig(props)
     val producer = new Producer[String, String](config)
