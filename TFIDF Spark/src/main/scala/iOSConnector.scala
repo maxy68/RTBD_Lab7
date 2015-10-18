@@ -1,5 +1,3 @@
-package edu.umkc.sparkKafka.Consumer
-
 import java.io.{IOException, PrintStream}
 import java.net.{InetAddress, Socket}
 
