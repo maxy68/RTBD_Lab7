@@ -368,7 +368,7 @@ const unsigned char SpeechKitApplicationKey[] = {0x07, 0x91, 0x98, 0x86, 0xab, 0
 
 - (void)socket:(GCDAsyncSocket *)sock didReadData:(NSData *)data withTag:(long)tag
 {
-    
+    dispatch_async(dispatch_get_main_queue(), ^{
     NSLog(@"== didReadData %@ ==", sock.description);
     
     NSString *msg = [[NSString alloc] initWithData:data encoding:NSUTF8StringEncoding];
@@ -381,7 +381,8 @@ const unsigned char SpeechKitApplicationKey[] = {0x07, 0x91, 0x98, 0x86, 0xab, 0
     [self.synthesizer speakUtterance:utterance];
     [self perform:msg];
     [sock readDataWithTimeout:READ_TIMEOUT tag:0];
-}
+ });
+ }
 
 /**
  * This method is called if a read has timed out.
